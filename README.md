@@ -16,11 +16,11 @@ PPT2PNG requires the following software to be installed:
 
 ## Example to convert test.pdf to png and store folder with images and json in dist folder in GULP
 
-    var doc2json = require('doc2json');
+    var doc2json = require('gulp-doc2json');
     
     gulp.task('doc2json', function(callback) {
     gulp.src('test.pdf')
-        .pipe(pptjson({
+        .pipe(doc2json({
             format: 'png',
             dest: 'dist'
         }))
