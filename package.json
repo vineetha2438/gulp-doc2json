@@ -1,0 +1,26 @@
+{
+    "name": "doc2json",
+    "version": "1.0.0",
+    "description": "Converts ppt/pdf to images in png/jpg format in a folder with same name as document and creates a json of those images in same folder",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vineetha2438/doc2json.git"
+    },
+    "keywords": [
+        "ppt",
+        "pdf",
+        "png",
+        "jpg",
+        "json"
+    ],
+    "author": "K Vineetha <vineetha.koneru2438@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vineetha2438/doc2json/issues"
+    },
+    "homepage": "https://github.com/vineetha2438/doc2json#readme"
+}
