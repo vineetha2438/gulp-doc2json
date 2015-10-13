@@ -3,7 +3,7 @@ Converts ppt/pdf to images in png/jpg format in a folder with same name as docum
 
 ## Requirements
 
-PPT2PNG requires the following software to be installed:
+doc2json requires the following software to be installed:
 
 * OpenOffice (http://www.openoffice.org/porting/mac/faq/installing/ooo.html)
 * ImageMagick (using Homebrew)
