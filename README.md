@@ -12,7 +12,7 @@ doc2json requires the following software to be installed:
 
 ## Installation
 
-    npm install doc2json
+    npm install gulp-doc2json
     
 
 ## Example to convert test.pdf to png and store folder with images and json in dist folder in GULP
