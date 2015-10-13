@@ -70,7 +70,7 @@ var cresateJSON = function(dest, folderName, format) {
     var fileDif = dest + folderName + '/' + folderName + '.json'
     var obj = [];
     var reqJSON = {};
-    for (var i = 0; i < jsonResult["files"].length; i++)
+    for (var i = 0; i < jsonResult[".files"].length; i++)
         obj.push({
             "name": folderName + '-' + i + '.' + format
         });
