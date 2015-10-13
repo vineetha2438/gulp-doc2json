@@ -5,8 +5,9 @@ Converts ppt/pdf to images in png/jpg format in a folder with same name as docum
 
 PPT2PNG requires the following software to be installed:
 
-* OpenOffice
-* ImageMagick
+* OpenOffice (http://www.openoffice.org/porting/mac/faq/installing/ooo.html)
+* ImageMagick (using Homebrew)
+* Ghostscript (unsing npm)
 
 
 ## Installation
